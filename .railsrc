@@ -1,0 +1,5 @@
+--skip-bundle #skips bundle install on generating a new rails app, use bundle i$
+#--skip-test-unit #skips making the default test unit folders, for later rspec
+-d mysql
+#-d postgresql #defautls dev db to psql
+

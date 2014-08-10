@@ -1,0 +1,7 @@
+BoldAsFont=yes
+Font=Consolas
+FontHeight=10
+CursorType=block
+FontSmoothing=default
+BoldAsColour=no
+Columns=120
