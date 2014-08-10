@@ -5,3 +5,5 @@ CursorType=block
 FontSmoothing=default
 BoldAsColour=no
 Columns=120
+Term=xterm-256color
+Blue=0,68,154
